@@ -11,7 +11,7 @@ export default function WithBackgroundImage() {
   return (
     <Flex
       backgroundImage={
-        "url(https://na.finalfantasyxvi.com/assets/images/na/kv/kv_pc.jpg)"
+        "url(https://fyre.cdn.sewest.net/ff-xvi/637cf9194dc880a0db62c591/hero_bg-tT8XHFrO5.jpg?quality=85&width=3840)"
       }
       backgroundSize={"100%"}
       backgroundPosition={"0% 0%"}
